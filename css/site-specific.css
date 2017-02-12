@@ -3,6 +3,11 @@
   width: auto;
 }
 
+.mission-icon-size {
+  height: 500px;
+  width: auto;
+}
+
 .resize-ul {
   font-size: 18px;
 }
