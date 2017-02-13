@@ -33,3 +33,8 @@
 .who-we-are:hover {
   color: #295989;
 }
+
+.navbar-logo {
+  height: 45px;
+  padding: 0px;
+}
