@@ -1,9 +1,9 @@
 .logo-size {
-  height: 300px;
+  max-height: 300px;
 }
 
 .mission-icon-size {
-  height: 300px;
+  max-height: 300px;
 }
 
 .resize-ul {
