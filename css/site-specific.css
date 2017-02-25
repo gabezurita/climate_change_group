@@ -39,6 +39,10 @@
   padding: 0px;
 }
 
+/*.talk-act {
+  text-align: center;
+}*/
+
 .talk-act:hover {
   color: #295989;
 }
