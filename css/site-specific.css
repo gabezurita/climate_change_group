@@ -38,3 +38,7 @@
   height: 45px;
   padding: 0px;
 }
+
+.talk-act:hover {
+  color: #295989;
+}
